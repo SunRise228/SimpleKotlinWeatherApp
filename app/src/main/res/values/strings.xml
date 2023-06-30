@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherAppWithVova</string>
+    <string name="CityNameTextView">Minsk</string>
+    <string name="LastForecastUpdateTime">Today</string>
+    <string name="WindSpeed">3 km/h</string>
+    <string name="Temperature">20</string>
+    <string name="WeatherCondition">Sunny</string>
+    <string name="TemperatureInterval">10/30</string>
+    <string name="BackGroundDescription">BackgroundDescription</string>
+    <string name="SearchBar">Search</string>
+    <string name="Hours">Hours</string>
+    <string name="Days">Days</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
